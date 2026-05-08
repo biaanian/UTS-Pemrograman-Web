@@ -1,8 +1,6 @@
 # UTS-Pemrograman-Web
 # Sistem Informasi Nilai Akademik Siswa
 
-Project UTS Mata Kuliah Pemrograman Web.
-
 ## Fitur
 - Login Administrator
 - Tambah Data
